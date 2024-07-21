@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="100" src="https://winlax.id.vn/logo.png"  />
+  <a href="https://winlax.id.vn/" target="_blank" align="center">
+    <img height="100" src="https://winlax.id.vn/logo.png"  />
+  </a>
 </div>
-
-###
 
 <h2 align="center">Hi 👋! My name is Win Lã base in Vietnam</h2>
 
@@ -58,12 +58,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/2108win/2108win/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=2108win.2108win&"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=2108win.2108win&"  />
+<div align="center" display="flex" justifyContent="center">
+  <img height="200" src="https://winlax.id.vn/winlax/winlax-1.webp"  />
+  <img height="200" src="https://winlax.id.vn/winlax/winlax-2.webp"  />
+  <img height="200" src="https://winlax.id.vn/winlax/winlax-3.webp"  />
+  <img height="200" src="https://winlax.id.vn/winlax/winlax-4.webp"  />
 </div>
 
 ###
