@@ -64,11 +64,13 @@
 
 ###
 
-<div align="center" display="flex" justifyContent="center">
-  <img height="200" src="https://winlax.id.vn/winlax/winlax-1.webp"  />
-  <img height="200" src="https://winlax.id.vn/winlax/winlax-2.webp"  />
-  <img height="200" src="https://winlax.id.vn/winlax/winlax-3.webp"  />
-  <img height="200" src="https://winlax.id.vn/winlax/winlax-4.webp"  />
+<div align="center">
+  <a href="https://winlax.id.vn/about" target="_blank" align="center" display="flex" justifyContent="center">
+    <img height="200" src="https://winlax.id.vn/winlax/winlax-1.webp"  />
+    <img height="200" src="https://winlax.id.vn/winlax/winlax-2.webp"  />
+    <img height="200" src="https://winlax.id.vn/winlax/winlax-3.webp"  />
+    <img height="200" src="https://winlax.id.vn/winlax/winlax-4.webp"  />
+  </a>
 </div>
 
 ###
