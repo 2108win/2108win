@@ -3,9 +3,9 @@
 <a href="https://winlax.id.vn/" target="_blank">
   <img height="96" src="https://winlax.id.vn/logo.png" alt="WinLax Logo" />
 </a>
-
+</br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=720&height=80&lines=L%C3%A3+Mai+Win+%7C+WinLax;Front-End+Engineer;React+%2B+Next.js+%2B+TypeScript;UI%2FUX+%7C+SEO+%7C+Performance" alt="Typing SVG" />
-
+</br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXIybjBhZjh2Y3BvMXpuYWQ4a2NjNjQzYzh2MmpmNnhyZGZpb2g4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif" height="100" alt="Meow1" />
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpaTh0a3Q4enNoN3Z1MnB5dHk5eTJ3ajQwYjY5em83NTR2em8xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2g6sCTsSoVuSfSxK4W/giphy.gif" height="100" alt="Meow2" />
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lrN29hNXhmc3BqMW5zcWVlMmxqc3oxOWt4ZHF3M2Q2cmozdGZkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pY8jLmZw0ElqvVeRH4/giphy.gif" height="100" alt="Meow3" />
