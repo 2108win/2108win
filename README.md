@@ -1,76 +1,79 @@
 <div align="center">
-  <a href="https://winlax.id.vn/" target="_blank" align="center">
-    <img height="100" src="https://winlax.id.vn/logo.png"  />
-  </a>
+
+<a href="https://winlax.id.vn/" target="_blank">
+  <img height="96" src="https://winlax.id.vn/logo.png" alt="WinLax Logo" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=720&height=80&lines=L%C3%A3+Mai+Win+%7C+WinLax;Front-End+Engineer;React+%2B+Next.js+%2B+TypeScript;UI%2FUX+%7C+SEO+%7C+Performance" alt="Typing SVG" />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXIybjBhZjh2Y3BvMXpuYWQ4a2NjNjQzYzh2MmpmNnhyZGZpb2g4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif" height="100" alt="Meow1" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpaTh0a3Q4enNoN3Z1MnB5dHk5eTJ3ajQwYjY5em83NTR2em8xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2g6sCTsSoVuSfSxK4W/giphy.gif" height="100" alt="Meow2" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lrN29hNXhmc3BqMW5zcWVlMmxqc3oxOWt4ZHF3M2Q2cmozdGZkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pY8jLmZw0ElqvVeRH4/giphy.gif" height="100" alt="Meow3" />
+
 </div>
 
-<h2 align="center">Hi 👋! My name is Win Lã base in Vietnam</h2>
+---
 
-###
+## About
+
+Front-End Engineer with 2+ years of experience building fast, responsive web apps with React and Next.js. I focus on UI/UX, SEO, and performance-driven interfaces.
+
+- 📍 Base in Vietnam
+- 🎯 Frontend, UI/UX, Performance
+- 🔧 React, Next.js, TypeScript, Tailwind CSS
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+
+<a href="https://winlax.id.vn/about" target="_blank">
+  <img height="175" src="./public/winlax-1.webp" alt="WinLax Project 1" />
+  <img height="175" src="./public/winlax-2.webp" alt="WinLax Project 2" />
+  <img height="175" src="./public/winlax-3.webp" alt="WinLax Project 3" />
+  <img height="175" src="./public/winlax-4.webp" alt="WinLax Project 4" />
+</a>
+
 </div>
 
-###
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=000000)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white&labelColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+
+---
+
+## Experience
+
+- **Front-end Developer @ 4teengames** — rebuilt the main game site with Next.js and Tailwind, focused on SEO and performance.
+- **Front-end Intern @ VDTC - ePass** — worked with Angular and TypeScript on internal interfaces.
+
+## GitHub Stats
 
 <div align="center">
-  <a href="mailto:winlax2108@gmail.com?cc=dangcapcuawin@gmail.com&subject=Exploring%20Collaboration%20Opportunities%20-%20From%20winlax-portfolio&body=Dear%20Win%2C%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%0D%0A%0D%0AMy%20name%20is%20%5BYour%20Name%5D%2C%20and%20I%20am%20%5BYour%20Position%5D%20at%20%5BYour%20Company%5D.%20I%20recently%20came%20across%20your%20impressive%20work%20in%20the%20field%20of%20%5BYour%20Expertise%2FIndustry%5D%2C%20and%20I%20am%20very%20interested%20in%20exploring%20potential%20collaboration%20opportunities%20with%20you.%0D%0A%0D%0AWe%20are%20experts%20in%20%5Byour%20company%27s%20products%20and%20services%5D%2C%20and%20we%20think%20we%20can%20work%20well%20together.%20We%20like%20how%20you%27re%20doing%20something%20new%20and%20different%2C%20and%20we%20think%20we%20can%20do%20great%20things%20together.%0D%0A%0D%0A%5BEstablish%20a%20schedule%20for%20the%20meeting%5D%0D%0A%0D%0AThank%20you%20for%20considering%20this%20opportunity.%20I%27m%20excited%20to%20work%20with%20you%20and%20see%20how%20we%20can%20benefit%20each%20other.%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20sign%5D%0D%0A%0D%0A%0D%0AFrom%20website%20winlax-portfolio" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/2108win/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/win_lax/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/2108win/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
-  </a>
+
+![Streak](https://streak-stats.demolab.com?user=2108win&theme=radical&hide_border=false&border_radius=18&ring=FFD700&stroke=FFD700&background=135%2C0D1117%2CFFB700)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## Contact
+
+[![Website](https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://winlax.id.vn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2108win)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2108win/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winlax2108@gmail.com)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=2108win&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=20" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2108win&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true" height="150" alt="languages graph"  />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=2108win.2108win&"  />
+
+**Fast interfaces. Clean details. Strong delivery.**
+
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=2108win.2108win&"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://winlax.id.vn/about" target="_blank" align="center" display="flex" justifyContent="center">
-    <img height="200" src="https://winlax.id.vn/winlax/winlax-1.webp"  />
-    <img height="200" src="https://winlax.id.vn/winlax/winlax-2.webp"  />
-    <img height="200" src="https://winlax.id.vn/winlax/winlax-3.webp"  />
-    <img height="200" src="https://winlax.id.vn/winlax/winlax-4.webp"  />
-  </a>
-</div>
-
-###
